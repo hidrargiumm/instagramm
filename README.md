@@ -1,2 +1,2 @@
 # instagramm
-https://hidrargiumm.github.io/instagramm/
+https://mtokmin.github.io/instagramm/
